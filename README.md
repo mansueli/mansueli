@@ -4,7 +4,7 @@ My name is Rodrigo Martins Mansueli, and I am a Support Engineer with experience
 In my current role, I work closely with customers to provide exceptional technical support and help them troubleshoot issues with software and hardware systems. I am passionate about customer service and always strive to go above and beyond to exceed their expectations.
 I am excited to connect with other professionals in the industry and look forward to learning from and collaborating with others. 
 
-[![Mansueli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansueli&theme=dark)](https://mansueli.com)
+[![Mansueli's GitHub stats](https://github-readme-stats.zohan.tech/api?username=mansueli&theme=monokai)](https://mansueli.com)
 
 
 [![Mansueli's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/2188186?theme=monokai)](https://stackoverflow.com/users/2188186/mansueli)
@@ -24,6 +24,8 @@ I am excited to connect with other professionals in the industry and look forwar
        height="25px"
    >
 </a>
+Original:
+[![Mansueli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansueli&theme=dark)](https://mansueli.com)
 
 
 <!--
