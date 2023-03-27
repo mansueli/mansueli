@@ -24,12 +24,12 @@ I am excited to connect with other professionals in the industry and look forwar
        height="25px"
    >
 </a>
-Original:
-[![Mansueli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansueli&theme=dark)](https://mansueli.com)
 
 
 <!--
 **mansueli/mansueli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Original:
+[![Mansueli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansueli&theme=dark)](https://mansueli.com)
 
 Here are some ideas to get you started:
 
