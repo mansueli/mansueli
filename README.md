@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rodrigo Martins Mansueli, and I am a Support Engineer with experience in the tech industry. With a Master's Degree in Computer Engineering and a Bachelor's Degree in Computer Science, I have developed a strong technical background and knowledge of programming languages such as Python and SQL.
+My name is Rodrigo Mansueli, and I am a Support Engineer with experience in the tech industry. With a Master's Degree in Computer Engineering and a Bachelor's Degree in Computer Science, I have developed a strong technical background and knowledge of programming languages such as Python and SQL.
 In my current role, I work closely with customers to provide exceptional technical support and help them troubleshoot issues with software and hardware systems. I am passionate about customer service and always strive to go above and beyond to exceed their expectations.
 I am excited to connect with other professionals in the industry and look forward to learning from and collaborating with others. 
 
